@@ -1,0 +1,26 @@
+{
+  "name": "node_todo",
+  "version": "1.0.0",
+  "description": "ToDo Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevelopersunil/Node_ToDo.git"
+  },
+  "keywords": [
+    "ToDo"
+  ],
+  "author": "WebdeveloperSunil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevelopersunil/Node_ToDo/issues"
+  },
+  "homepage": "https://github.com/webdevelopersunil/Node_ToDo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
